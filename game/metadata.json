@@ -1,0 +1,5 @@
+{
+  "name": "AI Meme Madness",
+  "description": "A group-based, creative meme competition where participants create humorous, AI-themed memes. The app features real-time group formation, a timed submission window, and AI-powered judging using the Gemini API.",
+  "requestFramePermissions": []
+}
